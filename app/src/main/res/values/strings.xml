@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="btn_trailer">Trailer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet">No Internet Connection!!</string>
+    <string name="movie_add">Add To Favorite!!</string>
+    <string name="movie_deleted">Deleted From Favorite!!</string>
+    <string name="deleted_failed">Deleted Failed!!</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="similar">Similar</string>
+    <string name="recomended">Recommended</string>
+    <string name="upcoming">UpComing Soon</string>
+    <string name="favorite">Favorite</string>
+    <string name="last_movie">Last movie you see</string>
+    <string name="movie_image">Movie poster path</string>
+    <string name="trailer_image">trailer image</string>
+
+    <string name="now_playing">Now Playing</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
